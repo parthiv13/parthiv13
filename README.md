@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+### Me:
+Self-proclaimed Null-Pointer Evangelist. Power user of IntelliJ. Polyglot, language-agnostic programmer with a special love for Functional Programming and Extreme Programming. Full-stack developer passionate about animations. Ever-curious, with a belief in mastering technologies—wherever they come from—to build robust and resilient systems.
 
 <!--
 **parthiv13/parthiv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
